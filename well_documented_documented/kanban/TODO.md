@@ -8,13 +8,13 @@
 
 ### In Progress (Max: 3)
 
-1. [ITM 0: Pick a Calendar Format](1_feature_refinement/in_progress/itm_0_pick_a_calendar_format.md)
+1. 
 1. 
 1. 
 
 ### Ready (Max: 1)
 
-1. 
+1. [ITM 0: Pick a Calendar Format](1_feature_refinement/in_progress/itm_0_pick_a_calendar_format.md)
 
 ### Won't Do
 

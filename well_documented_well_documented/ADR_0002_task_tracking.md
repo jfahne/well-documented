@@ -10,9 +10,8 @@ How can this project track tasks in plain text files checked into the VCS?
 
 ## Decision Drivers
 
-* [driver 1, e.g., a force, facing concern, …]
-* [driver 2, e.g., a force, facing concern, …]
-* … <!-- numbers of drivers can vary -->
+* Plain text
+* Supports Kanban style task tracking
 
 ## Considered Options
 
